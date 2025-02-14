@@ -1,6 +1,3 @@
 # Calculator 
-Functional Basic Calculator Project on the web-page. 
-
-HTML/CSS template from W3schools (not mine) 
-Javascript programming of the calculator is done myself, and fully function with both button functions and keyboard functions 
+A functional calculator on the web. Accepts both inputs of keyboard and mouse clicking of the buttons. 
 
