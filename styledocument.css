@@ -7,6 +7,10 @@ table {
     background-color: #dcae96;
 } 
 
+#result {
+    pointer-events: none; 
+    user-select: none;    
+}
 
   
 input[type="button"] { 
